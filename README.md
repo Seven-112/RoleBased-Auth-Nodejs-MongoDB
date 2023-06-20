@@ -23,7 +23,7 @@ It is perfect fit for creating a Customer management system using nodejs-backend
 
 ![alt text][logo]
 
-[logo]: https://github.com/n-bhasin/RoleBased-Auth-Nodejs-MongoDB/blob/master/documents/register.png "Register new user"
+[logo]: https://github.com/myshine112/RoleBased-Auth-Nodejs-MongoDB/blob/master/documents/register.png "Register new user"
 
 #### Authenticate user
 
